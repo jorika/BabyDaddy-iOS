@@ -39,7 +39,7 @@ class ThirdViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        bannerView.adUnitID = "ca-app-pub-7472319487463678/7427579148"
+        bannerView.adUnitID = "ca-app-pub-1/2"
         bannerView.rootViewController = self
         bannerView.loadRequest(GADRequest())
 
