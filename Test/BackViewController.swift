@@ -432,14 +432,6 @@ class BackViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
-        
-        //self.navigationController!.setToolbarHidden(false, animated: true)
-        //bannerViewDimples.adUnitID = "ca-app-pub-3940256099942544/2934735716"
-        //bannerViewDimples.rootViewController = self; self.navigationController?.toolbar.addSubview(bannerViewDimples)
-        //bannerViewDimples.loadRequest(GADRequest())
-
         
     }
     
